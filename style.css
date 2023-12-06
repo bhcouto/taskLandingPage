@@ -1,3 +1,6 @@
+.body {
+    position: relative;
+}
 #icons {
     border: 2px solid rgb(255, 205, 205);
     border-radius: 50%;
@@ -15,9 +18,6 @@
     background-color: white;
 }
 
-#fundo {
-    height: 19rem;
-    background-image: url(/images/background.jpg);
-    background-size: cover;
-   
+.floating-container {
+    margin-top: -6rem;
 }
