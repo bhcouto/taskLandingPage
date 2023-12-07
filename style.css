@@ -26,3 +26,17 @@
     width: 3rem;
 } 
 
+.textalign {
+   text-align: left;
+}
+
+.imgHeigth {
+    height: 25rem;
+    width: 25rem;
+}
+
+.card-img-selo {
+    height: 15rem;
+    width: 10rem;
+    
+}
