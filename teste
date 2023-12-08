@@ -1,0 +1,46 @@
+<section class="border-0 bg-light text-center">
+                <section class="container-fluid container-lg">
+                    <div class="row row-cols-2">
+                        <div class="col-6">
+                            <div class="row">
+                                <div class="col-4 ms-5 mt-5 mb-1">
+                                    <div class="card border-0 border-bottom shadow-sm bg-ligth rounded-3">
+                                        <h6>Teste</h6>
+                                        <p><em>teste</em></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-5 mt-1">
+                                    <div class="card  border-0">
+                                        <div class="border shadow-lg bg-white rounded-3">
+                                            <h5>John Doe</h5>
+                                            <p><em>developer</em></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4 ms-5 mt-2 mb-5">
+                                    <div class="card border-0 border-top bg-light rounded-3 ">
+                                        <h6 class="card-title">Teste2</h6>
+                                        <p class="card-text"><em>teste</em></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="row">
+                                <div class="col-5 ms-5">
+                                    <div class="card border-0 bg-light ms-5 ">
+                                        <h5 class="card-title mb-3">
+                                            Atract only quality leads
+                                        </h5>
+                                        <p class="card-text fw-light ">We hand pick our Professional's so that you are only ever tapping into Australia's best</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>

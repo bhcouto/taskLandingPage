@@ -1,6 +1,5 @@
-.body {
-    position: relative;
-}
+* *:last-child {margin-bottom: 0;}
+
 #icons {
     border: 2px solid rgb(255, 205, 205);
     border-radius: 50%;
@@ -49,3 +48,17 @@
 .imgF {
     width: 1.5rem;
 }
+
+.imgF:hover {
+    width: 1.7rem;
+    cursor:pointer;
+    opacity: 0.8;
+
+}
+
+.aumenta-card:hover {
+    opacity: 0.8;
+    transform: scale(1.1);
+    
+}
+
