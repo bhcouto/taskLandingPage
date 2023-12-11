@@ -1,6 +1,36 @@
 * *:last-child {margin-bottom: 0;}
 
+.navbar-nav li::after {
+    content: " ";
+    display: block;
+    width: 0%;
+    height: 2px;
+    background-color: rgb(158, 158, 158);
+    transition: width 0.5s;
+}
 
+.navbar-nav li:hover::after {
+    width: 100%;
+}
+
+
+.navbar-footer li::after {
+    content: " ";
+    display: block;
+    width: 0%;
+    height: 2px;
+    background-color: rgb(158, 158, 158);
+    transition: width 0.5s;
+}
+
+.navbar-footer li:hover::after {
+    width: 100%;
+}
+
+.navbar-footer li {
+    font-weight: bold;
+
+}
 
 #icons {
     border: 2px solid rgb(255, 205, 205);
