@@ -1,5 +1,7 @@
 * *:last-child {margin-bottom: 0;}
 
+
+
 #icons {
     border: 2px solid rgb(255, 205, 205);
     border-radius: 50%;
@@ -40,9 +42,14 @@
     
 }
 
+.navbar {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
 .lista {
     list-style: none;
-
+    
 }
 
 .imgF {
